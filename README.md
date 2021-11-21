@@ -1,4 +1,4 @@
 # Analog-Clock
-##Made as a Project for Developer Group
+## Made as a Project for Developer Group
 
-#COMPLETELY NON FUNCTIONAL
+# COMPLETELY NON FUNCTIONAL
